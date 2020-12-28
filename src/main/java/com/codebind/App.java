@@ -6,5 +6,9 @@ public class App {
 		
 		return "Hello world";
 	}
+	
+	public String helloSamp() {
+		return "Hello Samp";
+	}
 
 }
